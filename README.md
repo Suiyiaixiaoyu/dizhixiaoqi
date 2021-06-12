@@ -12,3 +12,6 @@
 5.调整了loss的权重
 
 6.使用假标签进行了数据增强
+
+训练数据地址-阿里天池
+https://tianchi.aliyun.com/competition/entrance/531901/introduction
